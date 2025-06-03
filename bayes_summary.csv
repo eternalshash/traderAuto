@@ -1,0 +1,2 @@
+Strategy,Buy Threshold,Sell Threshold,Initial Capital,Buys,Sells,Holds,Final Value,Profit
+Bayesian Optimization,493.12,508.58,1000,3,4,342,1292.09,292.09
